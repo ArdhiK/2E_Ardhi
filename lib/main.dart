@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:telkom/login.dart';
-import 'package:telkom/splash.dart';
+
+import 'https://flutlab.io/root/app/lib/login.dart';
+import 'https://flutlab.io/root/app/lib/splash.dart';
 
 void main() {
   runApp(MyApp());
